@@ -65,7 +65,7 @@
 ### 📱 微信二维码 (扫码直通)
 <div align="center">
   <!-- 🔍 记得把 wechat-qr.png 上传到仓库，或者用你的图片链接 -->
-  <img src="./wechat-qr.png" 
+  <img src="./wechat-qr.jpg" 
        alt="微信二维码" 
        width="200" 
        style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background: white; padding: 10px;" />
