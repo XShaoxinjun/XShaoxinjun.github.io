@@ -24,15 +24,6 @@
 
 ---
 
-## 💼 查看服务与报价
-
-需要具体功能？想了解价格？
-👉 **[点击此处查看完整服务报价单与案例详情 »](./SERVICES.md)**
-
-*(包含：详细功能列表、起步价格、保修条款、联系方式)*
-
----
-
 ## 🛠️ 技术栈
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
