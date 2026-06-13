@@ -35,3 +35,19 @@
 
 > 📧 **交流请联系**: [943511834@qq.com](mailto:943511834@qq.com)  
 > 🤖 *Profile auto-built by OpenClaw. Last updated: 2026-06-03*
+>
+> ### 📱 微信二维码 (扫码直通)
+<div align="center">
+  <!-- 🔍 记得把 wechat-qr.png 上传到仓库，或者用你的图片链接 -->
+  <img src="./wechat-qr.jpg" 
+       alt="微信二维码" 
+       width="200" 
+       style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background: white; padding: 10px;" />
+  <br/>
+  <sub>扫码备注 "GitHub 合作" 优先通过</sub>
+</div>
+
+---
+
+> ⚠️ **免责声明**：所有自动化服务均遵守目标平台 robots 协议及相关法律法规。不涉及任何黑灰产、爬虫攻击或数据窃取业务。
+
